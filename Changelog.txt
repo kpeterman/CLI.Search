@@ -1,0 +1,6 @@
+1.0.1
++Added a command arrow after the user ignores a restart
+*Fixed grammar error with restart function
+
+1.0.0
+*First release
